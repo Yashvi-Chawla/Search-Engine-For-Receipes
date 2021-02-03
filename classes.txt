@@ -1,0 +1,69 @@
+vegan
+vegetarian
+dairy free
+gluten free
+egg free
+high protein
+low calorie
+low sugar
+nut free
+healthy
+east european
+north african
+south american
+south east asian
+south asian
+east asian
+middle eastern
+indian
+african
+american
+british
+scottish
+welsh
+english
+carabbean
+chinese
+french
+greek
+irish
+italian
+japanese
+korean
+mexican
+nordic
+pakistani
+portuguese
+spanish
+thai
+turkish
+burns
+christmas
+easter
+pancake
+passover
+eid
+picnic
+diwali
+halloween
+bonfire
+barbecue
+thanksgiving
+hanukkah
+boxing
+valentines
+veganuary
+new year
+baisakhi
+st david
+st patrick
+st george
+winter
+spring
+summer
+autumn
+hot
+warm
+chilled
+ice
+salad
